@@ -1,0 +1,8 @@
+{
+    "description":"发布 v2.2.2，优化PAC，优化订阅管理，直持省略域名直接复制斜杆开头的github文件路径作为订阅地址后导入链接。托盘图标右键菜单增加“使用SOCK5打开浏览器”(此功能需要安装chrome或chrome兼容浏览器)",
+    "format":".lzma",
+    "main":"\\winXray.exe",
+    "updater":"\\winXray.exe",
+    "url":"https://raw.githubusercontent.com/winXray/winXray/master/release/update/",
+    "version":"2.2.02"
+}
